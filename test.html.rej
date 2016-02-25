@@ -1,0 +1,17 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -0,0 +1,14 @@
++<!DOCTYPE html>
++<html lang="ja">
++<head>
++	<meta charset="UTF-8">
++	<title>テスト２</title>
++</head>
++
++<body>
++
++ファイル1つでは面白くないので2つ目のファイルを取り扱います。
++
++
++</body>
++</html>
+\ No newline at end of file
